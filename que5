@@ -1,0 +1,6 @@
+Following lines will make compile time dependencies
+
+compile 'javax.measure:unit-api:0.9'
+compile 'systems.uom:systems-common-java8:0.2'
+compile 'tec.uom:uom-se:0.9'
+runtime 'systems.uom:systems-quantity:0.3'
